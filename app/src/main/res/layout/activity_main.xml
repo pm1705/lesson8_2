@@ -28,7 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center|center_horizontal"
-            android:text="confirm?" />
+            android:text="confirm needed" />
 
         <Space
             android:layout_width="match_parent"
